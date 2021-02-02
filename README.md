@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/k-gumbs/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Gaming Enthusiast🎮
--->
