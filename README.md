@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- ☁ I’m currently working Full Stack Academ Boot camp
+- ☁ I’m currently working Full Stack Academy Boot camp
 - 🤖 I’m currently learning CSS
 - 👯 I’m looking to collaborate on Side Projects in JS
 - 🤔 I’m looking for help with Android SDK
