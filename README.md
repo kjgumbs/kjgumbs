@@ -3,10 +3,11 @@
 
 Here are some ideas to get you started:
 
-- ☁ I’m currently working on Fullstack Academy Boot camp
-- 🤖 I’m currently learning CSS
-- 👯 I’m looking to collaborate on Side Projects in JS
-- 🤔 I’m looking for help with Android SDK
+- ☁ I’m currently working on projects
+- 🚀 I'm a Fullstack Academy Graduate
+- 🤖 I’m currently learning typescript
+- 👯 I’m looking to collaborate on Side Projects in React
+- 🤔 I’m looking for help with Tensorflow
 - 💬 Ask me about Anything
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/k-gumbs/)
 - 😄 Pronouns: He/Him
